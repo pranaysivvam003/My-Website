@@ -556,21 +556,29 @@ body {
 }
 #instagram{
     border: 1px solid #E04478;
+    border-radius: 18px 8px 18px 10px;
 }
 #instagram a{
     text-decoration: none;
 }
-#likedin{
+#linkedin{
     border: 1px solid #0273B3;
 }
 #linkedin a{
     text-decoration: none;
+}
+#linkedin img{
+    border-radius: 18px 0px 0px 7px;
 }
 #whatsapp{
     border: 1px solid #2AB200;
 }
 #whatsapp a{
     text-decoration: none;
+}
+#whatsapp img{
+    border-radius: 18px 0px 0px 7px;
+
 }
 #email{
     border: 1px solid #512DA8;
@@ -723,7 +731,7 @@ body {
     padding: 8px;
 }
 .end-name h1{
-    font-size: 60px;
+    font-size: 80px;
     font-weight: 500;
 }
 
